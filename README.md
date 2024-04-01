@@ -17,3 +17,12 @@ Para configurar el archivo .gitignore, puedes seguir estos pasos:
 4. Abre el nuevo archivo .gitignore en tu editor de texto preferido.
 5. Agrega las rutas de los archivos o directorios que quieres que Git ignore, cada una en una línea nueva.
 6. Guarda y cierra el archivo.
+
+### ¿Qué archivos vé?
+-.gitignore
+- README.md
+- tp1_1.c
+- tp1_1.exe
+### ¿Cuál cree que no hace falta que esté?
+seria el ejecutable .exe
+
