@@ -19,10 +19,16 @@ Para configurar el archivo .gitignore, puedes seguir estos pasos:
 6. Guarda y cierra el archivo.
 
 ### ¿Qué archivos vé?
--.gitignore
+- .gitignore
 - README.md
 - tp1_1.c
 - tp1_1.exe
+
 ### ¿Cuál cree que no hace falta que esté?
 seria el ejecutable .exe
 
+### ¿Por qué los apartados 2 y 3 muestran la misma dirección de memoria? 
+muestran la misma dirección de memoria porque **apuntado** apunta a **variable**, por lo que la dirección de memoria almacenada por el puntero es la misma que la dirección de memoria de la variable.
+
+###¿Qué obtienes en el punto 4? ¿Es igual a los anteriores? 
+obtengo la dirección de memoria del puntero, que es diferente de la dirreción de memoria de **variable**. Esto es por que **apuntado** y **variable** son variables diferentes almacenadas en diferentes ubicaciones de memoria.
